@@ -8,7 +8,7 @@ Then this script will detect that person in every Picture eithe it would be a so
 Im Using some of my pics and my pics of my friends for the script. and use some group pics as well to see either the script works properly or not.
 And it works perfectly fine.
 
-##Liberies you need to install##
+## Liberies you need to install ##
 
 you have to install face recognition, OpenCV and numpy.
 
